@@ -1,4 +1,5 @@
 # Clustering_Job_Postings_and_Skills_Identificaiton
+### Author: etorresram
 This repository was created to identify, analyze, and explore the digital skills extracted from job postings in Argentina during the period from January to July 2023. The analysis leverages Natural Language Processing (NLP) tools to uncover key trends, emerging patterns, and in-demand skills in the local job market.
 
 By utilizing advanced text-processing techniques, this project aims to:
